@@ -28,11 +28,11 @@ class LinkedList:
             currentNode = currentNode.next
 
 
-firstNode = Node("kawal")
+firstNode = Node("0000")
 linkedlist = LinkedList()
 linkedlist.insert(firstNode)
-secondNode = Node("gurpreet")
+secondNode = Node("1111")
 linkedlist.insert(secondNode)
-thirdNode = Node("aman")
+thirdNode = Node("0101")
 linkedlist.insert(thirdNode)
 linkedlist.printList()
